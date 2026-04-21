@@ -2,6 +2,8 @@
 
 ## Teleprompter/python
 
+The Teleprompter could theoretically be used in environments where you have infinite passcode attempts.
+
 You will need Python and NumPy, these are the only requirements.
 
 Teleprompter is meant to be used in terminal.
