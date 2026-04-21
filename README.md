@@ -20,4 +20,6 @@ This supports any number of digits.
 
 Based on a ruleset consisting of a few rules, and a graph of numbers ranked by likelyhood. 
 
-Should be "good enough" for most projects.
+Works in low-ram environments, should be able to be used in practically any system.
+
+Should be "good enough" for most projects, particuarly automated ones.
